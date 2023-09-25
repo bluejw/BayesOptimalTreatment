@@ -1,6 +1,5 @@
 # BayesOptimalTreatment
 R data and code for the paper:
-
 "A Bayesian Decision Framework for Optimizing Sequential Combination Antiretroviral Therapy in People with HIV".
 
 ## Data
